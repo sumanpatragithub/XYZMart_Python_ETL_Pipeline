@@ -4,7 +4,6 @@
 🚀 Excited to share insights into a powerful #DataPipeline! using python  📊 Here's a glimpse into the key stages:
 
 💠 Data Extraction 🐍: We kick off with Python, extracting data from sources like CSVs. The gateway to our data journey!
-
 💠 Data Cleaning 🧹: Ensuring top-notch quality by handling missing values, correcting errors, resolving inconsistencies, and bidding farewell to duplicates. Clean data, clear insights!
 💠 Data Transformation 🔄: The metamorphosis begins! Formatting, aggregation, normalization, and some magic with feature engineering to mold the data for analysis.
 💠 Data Modeling 🏗️: Crafting a data model that mirrors the intricate relationships within. Choosing the right model, be it relational, hierarchical, or more, depending on the use case.
